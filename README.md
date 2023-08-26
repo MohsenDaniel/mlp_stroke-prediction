@@ -9,13 +9,13 @@ This project is a Machine Learning project that aims to use the dataset from the
 
 → Feature variables: As already hinted at, the feature variables for this project will be the remaining columns in the dataset, which will be carefully analysed in the course of this project, and are:
 
-Gender
-Work type
-Residence type
-Smoking status
-"Ever married" status
-Hypertension status
-Heart disease status
-Age
-Average glucose level
-Body mass index
+- Gender
+- Work type
+- Residence type
+- Smoking status
+- "Ever married" status
+- Hypertension status
+- Heart disease status
+- Age
+- Average glucose level
+- Body mass index
